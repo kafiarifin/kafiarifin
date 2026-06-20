@@ -6,13 +6,13 @@
 <br/>
 
 ### Here are some ideas to get you started getting to know me:
-- 🔭 Currently working on National Disaster Management Authority ([BNPB](https://bnpb.go.id)) - Republic of Indonesia
-- 🌱 Currently learning anything, related to technology
-- 👯 Looking to collaborate on artificial neural network & deep learning
-- 🤔 Looking for help with artificial neural network & deep learning
-- 💬 Ask me about disaster risk reduction
-- 📫 How to reach me: [mail me](kafiarifin.dev@gmail.com) or [connect with me](https://www.linkedin.com/in/kafiarifin/)
-- ⚡ Fun fact: Always feel like a novice in tech knowledge
+* 🔭 Currently working at the National Disaster Management Authority ([BNPB](https://bnpb.go.id/)), Republic of Indonesia
+* 🌱 Always picking up something new, usually somewhere in tech
+* 👯 Happy to team up on artificial neural networks & deep learning
+* 🤔 Still figuring out a lot of deep learning, so pointers are always welcome
+* 💬 Ask me about disaster risk reduction
+* 📫 Reach me by [email](mailto:kafiarifin.dev@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/kafiarifin/)
+* ⚡ Fun fact: no matter how much I learn, I still feel like a beginner
 
 <br />
 
